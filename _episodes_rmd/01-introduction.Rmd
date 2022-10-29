@@ -87,43 +87,33 @@ analyzing data in R:
 {: .discussion}
 
 
-## Introducing RStudio Server
+## Introducing RStudio Cloud
 
 In these lessons, we will be making use of a software called [RStudio](https://www.rstudio.com/products/RStudio/),
 an [Integrated Development Environment (IDE)](https://en.wikipedia.org/wiki/Integrated_development_environment).
 RStudio, like most IDEs, provides a graphical interface to R, making it more
 user-friendly, and providing dozens of useful features. We will introduce
 additional benefits of using RStudio as you cover the lessons. In this case,
-we are specifically using [RStudio Server](https://www.rstudio.com/products/RStudio/#Server),
-a version of RStudio that can be accessed in your web browser. RStudio Server
+we are specifically using [RStudio Cloud](https://rstudio.cloud/),
+a version of RStudio that can be accessed in your web browser. RStudio Cloud
 has the same features of the Desktop version of RStudio you could download as
 standalone software.
 
-## Log on to RStudio Server
+## Log on to RStudio Cloud
 
-Open a web browser and enter the URL you used to log in at the terminal
-(provided by your instructors), followed by
-`:8787`. For example, if your URL was ec2.12.2.45.678.compute-1.amazonaws.com, you should enter:
+Sign up on [RStudio Cloud](https://rstudio.cloud/plans/free) using either Google or GitHub.
 
-```
-http://ec2.12.2.45.678.compute-1.amazonaws.com:8787
-```
-
-> ## Tip: Make sure there are no spaces before or after your URL or
-> your web browser may interpret it as a search query.
+> ## Tip: If you have an account in GitHub, you are recommanded to use Github rather than Google.
 {: .callout}
 
 You should now be looking at a page that will allow you to login to the RStudio
-server:
+cloud:
 
-<img src="../fig/rstudio_login_screen.png" alt="rstudio default session" style="width: 1000px;"/>
+<img src="../fig/signup_page.png" alt="rstudio default session" style="width: 1000px;"/>
 
-Enter your user credentials and click <kbd>Sign In</kbd>. The credentials for
-the genomics Data Carpentry instances will be provided by your instructors.
+After signing up with GitHub, you should now see the RStudio Cloud:
 
-You should now see the RStudio interface:
-
-<img src="../fig/rstudio_session_default.png" alt="rstudio default session" style="width:1000px;"/>
+<img src="../fig/rstudioCloud.png" alt="rstudio default session" style="width: 1000px;"/>
 
 
 ## Create an RStudio project
@@ -139,7 +129,7 @@ called an **RStudio Project**. An RStudio project allows you to more easily:
 
 1. To create a project, go to the <kbd>File</kbd> menu, and click <kbd>New Project...</kbd>.
 
-<img src="../fig/new_project_window.png" alt="rstudio default session" style="width: 600px;"/>
+<img src="../fig/new-project.png" alt="rstudio default session" style="width: 600px;"/>
 
 2. In the window that opens select **New Directory**, then **New Project**. For
 "Directory name:" enter **dc_genomics_r**. For "Create project as subdirectory of", click <kbd>Browse...</kbd> and then click <kbd>Choose</kbd> which will select your home directory "~".
