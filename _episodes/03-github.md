@@ -22,17 +22,22 @@ source: Rmd
 ---
 
 ## Table of contents
-1. [Introduction](#introduction)
-2. [Pair up and work collaboratively](#pair-up-and-work-collaboratively)
-3. [Owner (Partner 1) setup](#owner-partner-1-setup)
-5. [Give your collaborator administration privileges (Partner 1 and 2)](#give-your-collaborator-administration-privileges-partner-1-and-2)
-6. [Clone to a new Rproject (Owner Partner 1)](#clone-to-a-new-rproject-owner-partner-1)
-7. [Collaborator (Partner 2) part](#collaborator-partner-2-part)
-8. [State of the Repository](#state-of-the-repository)
-9. [Merge conflicts](#merge-conflicts)
-10. [How do you avoid merge conflicts?](#how-do-you-avoid-merge-conflicts)
-11. [Create your collaborative website](#create-your-collaborative-website)
-12. [Explore on GitHub.com](#explore-on-github.com)
+- [Julie is collaborating on this README.](#julie-is-collaborating-on-this-readme)
+  - [Your turn](#your-turn)
+  - [How do you avoid merge conflicts?](#how-do-you-avoid-merge-conflicts)
+  - [Create your collaborative website](#create-your-collaborative-website)
+  - [Your turn](#your-turn-1)
+  - [Explore on GitHub.com](#explore-on-githubcom)
+    - [Commit History](#commit-history)
+    - [Blame](#blame)
+    - [Issues](#issues)
+- [first priority](#first-priority)
+  - [NYC flights exploration](#nyc-flights-exploration)
+      - [Sync](#sync)
+    - [Partner 2 pull](#partner-2-pull)
+    - [Logical operators](#logical-operators)
+    - [Partner 2 sync](#partner-2-sync)
+  - [Your turn](#your-turn-2)
 
 ## Introduction
 
@@ -62,22 +67,22 @@ By default, when you create a new repo you begin with one branch, and it is name
 
 On the homepage for your repo on GitHub.com, click the button that says "Branch:master". Here, you can switch to another branch (right now there aren't any others besides `master`), or create one by typing a new name.
 
-<img src="../img/github-branch.png" width="350px">
+<img src="../fig/img/github-branch.png" width="350px">
 
 
 Let's type `gh-pages`.
 
-<img src="../img/github_create-branch_gh-pages.png" width="350px">
+<img src="../fig/img/github_create-branch_gh-pages.png" width="350px">
 
 Let's also change `gh-pages` to the default branch and delete the master branch: this will be a one-time-only thing that we do here:
 
 First click to control branches:
 
-<img src="../img/github-branch2.png" width="350px">
+<img src="../fig/img/github-branch2.png" width="350px">
 
 And then click to change the default branch to `gh-pages`. I like to then delete the `master` branch when it has the little red trash can next to it. It will make you confirm that you really want to delete it, which I do!
 
-<img src="../img/github-change-branch.png" width="450px">
+<img src="../fig/img/github-change-branch.png" width="450px">
 
 
 ## Give your collaborator administration privileges (Partner 1 and 2)
@@ -98,7 +103,7 @@ Now let's have Partner 1 clone the repository to their local computer. We'll do 
 Opening this Project in a new Session opens up a new world of awesomeness from RStudio. Having different RStudio project sessions allows you to keep your work separate and organized. So you can collaborate with this collaborator on this repository while also working on your other repository from this morning. I tend to have a lot of projects going at one time:
 
 
-![](../img/Rproj_screenshot.jpg)
+![](../fig/img/Rproj_screenshot.jpg)
 
 Have a look in your git tab.
 
@@ -106,7 +111,7 @@ Like we saw earlier, when you first clone a repo through RStudio, RStudio will a
 
 Remember:
 
-![](../img/commit_overview.png)
+![](../fig/img/commit_overview.png)
 
 
 
@@ -140,7 +145,7 @@ Collaborators:
 
 When we save the README.md, And now let's sync back to GitHub.
 
-![](../img/commit_overview.png)
+![](../fig/img/commit_overview.png)
 
 When we inspect on GitHub.com, click to view all the commits, you'll see commits logged from both Partner 1 and 2!
 
@@ -207,7 +212,7 @@ Let's follow their advice and have me to commit first. Great. Now let's pull aga
 
 Still not happy!
 
-<img src="../img/github_mergeconflict2.png" width="800px" />
+<img src="../fig/img/github_mergeconflict2.png" width="800px" />
 
 <!--
 Let's have both Partners 1 and 2 go to RStudio and pull so you have the most recent versions of all your files. Now, Partners 1 and 2, both go to the README, and on Line 7, write something, anything. I'm not going to give any examples because I want both Partners to write something different. And be sure to save the README.
@@ -236,11 +241,11 @@ So, to resolve this merge conflict, my collaborator has to chose, and delete eve
 
 Do that, and let's try again. In this example, we've kept my (Jamie's) line:
 
-<img src="../img/github_mergeconflict3.png" width="800px" />
+<img src="../fig/img/github_mergeconflict3.png" width="800px" />
 
 Then be I need to stage and write a commit message. I often write "resolving merge conflict" or something so I know what I was up to. When I stage the file, notice how now my edits look like a simple line replacement (compare with the image above before it was re-staged):
 
-<img src="../img/github_mergeconflict4.png" width="800px" />
+<img src=".../fig/img/github_mergeconflict4.png" width="800px" />
 
 ## Your turn
 
@@ -332,7 +337,7 @@ On the right side, there are a bunch of options for categorizing and organizing 
 
 Another feature about issues is whether you want any notifications to this repository. Click where it says "Unwatch" up at the top. You'll see three options: "Not watching", "Watching", and "Ignoring". By default, you are watching these issues because you are a collaborator to the repository. But if you stop being a big contributor to this project, you may want to switch to "Not watching". Or, you may want to ask an outside person to watch the issues. Or you may want to watch another repo yourself!
 
-<img src="../img/github-collab.png" width="800px" />
+<img src="../fig/img/github-collab.png" width="800px" />
 
 Let's have Person 2 respond to the issue affirming the plan.
 
