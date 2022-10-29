@@ -4,6 +4,11 @@
 
 This is a workshop delivered by Open Sceince Community Saudi Arabia (OSCSA) for sFDA staff using Carpentries Materails.
 
+## Citation and Acknowledgment
+
+- [Intro to R and RStudio for Genomics](https://datacarpentry.org/genomics-r-intro/)
+- [Introduction to data analysis with R and Bioconductor](https://saskiafreytag.github.io/biocommons-r-intro/)
+
 ## How to contribute?
 
 This repository uses GitHub Actions to build and deploy the lesson.
