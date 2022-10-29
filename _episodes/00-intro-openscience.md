@@ -2,6 +2,9 @@
 title: "Why care about open (data) science?"
 teaching: 30
 exercises: 60
+questions:
+- "What is Open Science?"
+- "What is Open and Reproducible Research Practices?"
 topics:
 - "The Crisis of Confidence"
 - "Open and Reproducible Research Practices"
