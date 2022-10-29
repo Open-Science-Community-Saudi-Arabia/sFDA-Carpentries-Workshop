@@ -2,7 +2,7 @@
 
 # Intro to R and Open Science Practices for Biologists
 
-This is a workshop delivered by Open Sceince Community Saudi Arabia (OSCSA) for sFDA staff using Carpentries Materails.
+This is a workshop delivered by Open Sceince Community Saudi Arabia (OSCSA) for sFDA staff using Carpentries Materials.
 
 ## Citation and Acknowledgment
 
