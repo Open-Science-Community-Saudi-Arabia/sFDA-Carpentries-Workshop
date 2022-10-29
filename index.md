@@ -3,14 +3,15 @@ layout: lesson
 root: .
 permalink: index.html  # Is the only page that don't follow the partner /:path/index.html
 ---
+
+**The workshop is organised by [the Open Science Community Saudi Arabia](https://osc-ksa.com/ar-index.html). It’ll be delivered by instructors and facilitators from the Carpentries in MENA.**
+
 **Welcome to R!** Working with a programming language (especially if it’s your
 first time) often feels intimidating, but the rewards outweigh any frustrations.
 An important secret of coding is that even experienced programmers find it
 difficult and frustrating at times – so if even the best feel that way, why let
 intimidation stop you? Given time and practice* you will soon find it easier
 and easier to accomplish what you want.
-
-**The workshop is organised by [the Open Science Community Saudi Arabia](https://osc-ksa.com/ar-index.html). It’ll be delivered by instructors and facilitators from the Carpentries in MENA.**
 
 Why learn to code? Bioinformatics – like biology – is messy. Different
 organisms, different systems, different conditions, all behave differently.
