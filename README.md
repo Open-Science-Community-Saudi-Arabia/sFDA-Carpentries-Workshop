@@ -1,8 +1,8 @@
 ![Build and Deploy Website](https://github.com/datacarpentry/genomics-r-intro/workflows/Build%20and%20Deploy%20Website/badge.svg)
 
-# Intro to R and RStudio for Genomics
+# Intro to R and Open Science Practices for Biologists
 
-Lesson in development.
+This is a workshop delivered by Open Sceince Community Saudi Arabia (OSCSA) for sFDA staff using Carpentries Materails.
 
 ## How to contribute?
 
