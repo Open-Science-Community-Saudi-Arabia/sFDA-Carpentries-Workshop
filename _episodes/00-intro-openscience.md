@@ -1,7 +1,7 @@
 ---
 title: "Why care about open (data) science?"
-teaching: 30
-exercises: 60
+teaching: 40
+exercises: 10
 questions:
 - "What is Open Science?"
 - "What is Open and Reproducible Research Practices?"
@@ -24,7 +24,7 @@ source: Rmd
 
 The crisis of confidence poses a general problem across most empirical research disciplines and is characterized by an alarmingly low rate of key findings that are reproducible (e.g., Fidler et al. [2017](https://academic.oup.com/bioscience/article-abstract/67/3/282/2900173); Open Science Collaboration, [2015](https://science.sciencemag.org/content/349/6251/aac4716.short); Poldrack et al., [2017](https://www.nature.com/nrn/journal/v18/n2/abs/nrn.2016.167.html); Wager et at., [2009](https://www.sciencedirect.com/science/article/pii/S1053811908012111)). A low reproducibility rate can arise when scientists do not respect the empirical cycle. Scientific research methods for experimental research are based on the hypothetico-deductive approach (see e.g., de Groot, [1969](https://books.google.nl/books?hl=en&lr=&id=6hiBDwAAQBAJ&oi=fnd&pg=PR5&dq=de+groot+methologie&ots=GR5-EAw6pB&sig=Ej1MJgvsN1bHiQHio__ibrO4fkA&redir_esc=y#v=onepage&q=de%20groot%20methologie&f=false); Peirce, [1878](https://www.taylorfrancis.com/books/e/9781315823126/chapters/10.4324/9781315823126-7)), which is illustrated in Figure 1.
 
-<img src="../fig/EmpiricalCycle.png" alt="" style="width: 1000px;"/>
+<img src="../fig/EmpiricalCycle.png" alt="" style="width: 700px;"/>
 
 <strong>Figure 1.</strong> The two stages of the empirical cycle; after the initial stage of creative discovery and hypothesis generation (illustrated in the right panel), researchers test their hypotheses in a statistical context of justification (illustrated in the left panel). However, scientists fool themselves, if they test their new predictions on old knowledge and old data (dotted line)."
 
@@ -63,6 +63,14 @@ Preregistration is encouraged in the transparency and openness promotion (TOP) g
 - Preregistration: Loosing the flexibility to adapt analysis plans to unexpected peculiarities of the data; Solution = data blinding, which is standard practice in astrophysics)
 - Reproducibility: Additional costs associated with the time it takes to adequatly annotate and archive the code so that independent researchers can understand and reproduce fugures and results; Solution = reproducible workflow, for instance by working in Git and Rmarkdown
 
+> ## Exercise: Reflect on your own reserach!
+>
+> Have you ever had a problem reproducing your own research or someone else's research? Why do think some research is irreproducible?
+>
+>> ## Solution
+>> Read more about [reproducibility crisis here](https://www.vox.com/future-perfect/21504366/science-replication-crisis-peer-review-statistics).
+> {: .solution}
+{: .challenge}
 
 ## Three messages
 
