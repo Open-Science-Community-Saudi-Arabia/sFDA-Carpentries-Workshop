@@ -44,7 +44,7 @@ exercises in class, re-do them on your own, and then work on your own problems.
 
 
 > ## Before you start
-> > - Before the training, please make sure you have completed the [Setup](https://carpentries-incubator.github.io/open-science-with-r/setup.html) instructions.   
+> - **Before the training:** Please make sure you have completed the [Setup](https://carpentries-incubator.github.io/open-science-with-r/setup.html) instructions.   
 > - There are two options to install necessary softwares and packages:
 >   * (Option 1) The favored one is to sign up to [RStudio Cloud](https://rstudio.cloud/).
 >   * (Option 2) Alternatively, you can install everything manually. Follow the Setup instructions to do so.
