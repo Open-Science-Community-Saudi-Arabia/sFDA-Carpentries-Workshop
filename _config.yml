@@ -10,7 +10,7 @@
 carpentry: "dc"
 
 # Overall title for pages.
-title: "Intro to R and RStudio for Genomics"
+title: "Intro to R and Open Science Practices for Biologists"
 
 # Life cycle stage of the lesson
 # possible values: "pre-alpha", "alpha", "beta", "stable"
@@ -29,7 +29,7 @@ kind: "lesson"
 repository: <USERNAME>/<PROJECT>
 
 # Email address, no mailto:
-email: "team@carpentries.org"
+email: "training@openscisaudi.com"
 
 # Sites.
 amy_site: "https://amy.carpentries.org/"
