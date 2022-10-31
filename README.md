@@ -31,6 +31,7 @@ Contributions and Pull Requests should be made against the `main` branch. After 
 
 ## Participants
 
+- Batool Almarzouq
 - Lenah Mukhtar
 - Khaloud ALzahrani
 - Monah Abou Alezz
