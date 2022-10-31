@@ -32,6 +32,7 @@ Contributions and Pull Requests should be made against the `main` branch. After 
 ## Participants
 
 - Monah Abou Alezz
+- Meshari Alhadlaq
 - 
 
 
