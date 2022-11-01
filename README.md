@@ -36,7 +36,7 @@ Contributions and Pull Requests should be made against the `main` branch. After 
 - Khaloud ALzahrani
 - Monah Abou Alezz
 - Meshari Alhadlaq
-- 
+- Amani Alsufyani
 
 
 Individual episode files are in the `_episodes_rmd` folder.
