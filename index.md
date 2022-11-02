@@ -46,10 +46,11 @@ user!
 programming is that you can only learn so much by reading about it. Do the
 exercises in class, re-do them on your own, and then work on your own problems.
 
-The slides associated with the workshop can be accessed here:
-> Monah Abou Alezz, Batool Almarzouq, Annajiat Alim Rasel, Abdulrahman Dallak, & Mona Alsharif. (2022, November 2). Intro to R and Open Science Practices for Biologists (Arabic). Zenodo. [https://doi.org/10.5281/zenodo.7274156](https://doi.org/10.5281/zenodo.7274156)
+
 > 
 > ## Before you start
+> The slides associated with the workshop can be accessed here:
+> Monah Abou Alezz, Batool Almarzouq, Annajiat Alim Rasel, Abdulrahman Dallak, & Mona Alsharif. (2022, November 2). Intro to R and Open Science Practices for Biologists (Arabic). Zenodo. [https://doi.org/10.5281/zenodo.7274156](https://doi.org/10.5281/zenodo.7274156)
 > - **Before the training:** Please make sure you have completed the [Setup](https://carpentries-incubator.github.io/open-science-with-r/setup.html) instructions.   
 > - There are two options to install necessary softwares and packages:
 >   * (Option 1) The favored one is to sign up to [RStudio Cloud](https://rstudio.cloud/).
