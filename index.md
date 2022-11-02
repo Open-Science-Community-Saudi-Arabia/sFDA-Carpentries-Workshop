@@ -43,6 +43,7 @@ Get through these lessons, and you are on your way to being an accomplished R
 user!
 
 > The slides associated with the workshop can be accessed here:
+> 
 > Monah Abou Alezz, Batool Almarzouq, Annajiat Alim Rasel, Abdulrahman Dallak, & Mona Alsharif. (2022, November 2). Intro to R and Open Science Practices for Biologists (Arabic). Zenodo. [https://doi.org/10.5281/zenodo.7274156](https://doi.org/10.5281/zenodo.7274156)
 
 
