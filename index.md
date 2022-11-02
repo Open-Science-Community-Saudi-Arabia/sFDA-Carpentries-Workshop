@@ -4,13 +4,10 @@ root: .
 permalink: index.html  # Is the only page that don't follow the partner /:path/index.html
 ---
 
-The workshop is organised by [The workshop is organised by the Open Science Community Saudi Arabia](https://osc-ksa.com/ar-index.html) using materials from intro to [R and RStudio for Genomics](https://datacarpentry.org/genomics-r-intro/) and [Introduction to Open Data Science with R](https://carpentries-incubator.github.io/open-science-with-r/) to sFDA staff. It used be delivered by the following instructors and helpers: Dr. Monah Abou Alezz, Annajiat Alim Rasel, Mona Alsharif and Abdulrahman Dallak​​​​​​​.
+The workshop is organised by [the Open Science Community Saudi Arabia](https://osc-ksa.com/ar-index.html) using materials from intro to [R and RStudio for Genomics](https://datacarpentry.org/genomics-r-intro/) and [Introduction to Open Data Science with R](https://carpentries-incubator.github.io/open-science-with-r/) to sFDA staff. It used be delivered by the following instructors and helpers: Dr. Monah Abou Alezz, Annajiat Alim Rasel, Mona Alsharif and Abdulrahman Dallak​​​​​​​.
 
-The slides associated with the workshop can be accessed here:
 
-> Monah Abou Alezz, Batool Almarzouq, Annajiat Alim Rasel, Abdulrahman Dallak, & Mona Alsharif. (2022, November 2). Intro to R and Open Science Practices for Biologists (Arabic). Zenodo. https://doi.org/10.5281/zenodo.7274156
-
-## Welcome to R!
+### Welcome to R!
 Working with a programming language (especially if it’s your
 first time) often feels intimidating, but the rewards outweigh any frustrations.
 An important secret of coding is that even experienced programmers find it
@@ -18,7 +15,7 @@ difficult and frustrating at times – so if even the best feel that way, why le
 intimidation stop you? Given time and practice* you will soon find it easier
 and easier to accomplish what you want.
 
-## Why learn to code?
+### Why learn to code?
 Bioinformatics – like biology – is messy. Different
 organisms, different systems, different conditions, all behave differently.
 Experiments at the bench require a variety of approaches – from tested protocols
@@ -49,7 +46,9 @@ user!
 programming is that you can only learn so much by reading about it. Do the
 exercises in class, re-do them on your own, and then work on your own problems.
 
-
+The slides associated with the workshop can be accessed here:
+> Monah Abou Alezz, Batool Almarzouq, Annajiat Alim Rasel, Abdulrahman Dallak, & Mona Alsharif. (2022, November 2). Intro to R and Open Science Practices for Biologists (Arabic). Zenodo. [https://doi.org/10.5281/zenodo.7274156](https://doi.org/10.5281/zenodo.7274156)
+> 
 > ## Before you start
 > - **Before the training:** Please make sure you have completed the [Setup](https://carpentries-incubator.github.io/open-science-with-r/setup.html) instructions.   
 > - There are two options to install necessary softwares and packages:
