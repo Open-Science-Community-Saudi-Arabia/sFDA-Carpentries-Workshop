@@ -4,7 +4,7 @@ root: .
 permalink: index.html  # Is the only page that don't follow the partner /:path/index.html
 ---
 
-The workshop is organised by [the Open Science Community Saudi Arabia](https://osc-ksa.com/ar-index.html) using materials from intro to [R and RStudio for Genomics](https://datacarpentry.org/genomics-r-intro/) and [Introduction to Open Data Science with R](https://carpentries-incubator.github.io/open-science-with-r/) to sFDA staff. It used be delivered by the following instructors and helpers: Dr. Monah Abou Alezz, Annajiat Alim Rasel, Mona Alsharif and Abdulrahman Dallak​​​​​​​.
+The workshop is organised by [the Open Science Community Saudi Arabia](https://osc-ksa.com/ar-index.html) using materials from intro to [R and RStudio for Genomics](https://datacarpentry.org/genomics-r-intro/) and [Introduction to Open Data Science with R](https://carpentries-incubator.github.io/open-science-with-r/) to sFDA staff. **It used be delivered by the following instructors and helpers: Dr. Monah Abou Alezz, Annajiat Alim Rasel, Mona Alsharif and Abdulrahman Dallak​​​​​​​.**
 
 
 ### Welcome to R!
