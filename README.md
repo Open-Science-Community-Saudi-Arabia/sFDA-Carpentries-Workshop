@@ -37,6 +37,19 @@ Contributions and Pull Requests should be made against the `main` branch. After 
 - Monah Abou Alezz
 - Meshari Alhadlaq
 - Amani Alsufyani
-
+- Annajiat Alim Rasel
+- Mona Saad Alsharif
+- Abdulraman Dallak
+- Mashan Aldawsari 
+- Tala Ahmed Alkharashi
+- fahad alreshoodi 
+- Norah Majed 
+- Khaloud Alzahrani 
+- Shatha Alosaimi
+- Elaf Alshdokhi
+- Noura S. AlMuqati
+- Amani T. Alsufyani
+- Abdullah A Alajlan
+- Ashwaq Alhamed 
 
 Individual episode files are in the `_episodes_rmd` folder.
